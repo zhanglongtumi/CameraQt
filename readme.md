@@ -7,7 +7,7 @@
 
 运行图片
 
-![Image](CPU使用情况.jpg)
+![Image](https://github.com/zhanglongtumi/CameraQt/blob/master/CPU使用情况.JPG)
 
 CPU的使用情况
 
