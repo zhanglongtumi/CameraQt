@@ -25,3 +25,9 @@ target.path = $$[QT_INSTALL_EXAMPLES]/multimediawidgets/camera
 INSTALLS += target
 
 QT+=widgets
+
+DISTFILES += \
+    CPU使用情况.JPG \
+    GPU使用情况.JPG \
+    运行图片.JPG \
+    readme.md
